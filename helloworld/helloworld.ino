@@ -1,3 +1,4 @@
+
 /*
   LiquidCrystal Library - Hello World
 
@@ -52,7 +53,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  lcd.print("hello, world!");
+  lcd.print("hey shawtie ;3");
 }
 
 void loop() {
@@ -62,4 +63,3 @@ void loop() {
   // print the number of seconds since reset:
   lcd.print(millis() / 1000);
 }
-
